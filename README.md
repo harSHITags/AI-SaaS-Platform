@@ -7,16 +7,16 @@ This project is actively being developed. Features, routes, and UI are incomplet
 
 ---
 
-# Tech Stack
-- Framework: Next.js 15  
-- Auth: Clerk  
-- UI: Tailwind CSS + Lucide Icons  
-- Language: TypeScript  
-- Other: Node.js (v20+), modern middleware routing  
+##  Tech Stack
+- **Framework**: Next.js 15  
+- **Auth**: Clerk  
+- **UI**: Tailwind CSS + Lucide Icons  
+- **Language**: TypeScript  
+- **Other**: Node.js (v20+), modern middleware routing  
 
 ---
 
-#📌 Features (planned & in progress)
+## 📌 Features (planned & in progress)
 - Authentication with Clerk (Sign in / Sign up)  
 -  Dashboard layout with sidebar navigation  
 -  AI tools (text, code, image, music, video generation)  
@@ -24,7 +24,7 @@ This project is actively being developed. Features, routes, and UI are incomplet
 
 ---
 
-##  Getting Started
+## 🛠️ Getting Started
 Clone the repo and install dependencies:
 
 ```bash
@@ -32,3 +32,4 @@ git clone https://github.com/your-username/ai-saas.git
 cd ai-saas
 npm install
 npm run dev
+
