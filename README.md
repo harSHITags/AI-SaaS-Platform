@@ -24,7 +24,7 @@ This project is actively being developed. Features, routes, and UI are incomplet
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 Clone the repo and install dependencies:
 
 ```bash
